@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  input {
+    width: 25% !important;
+    margin-right: 0.25em!important;
+    margin-left: 0.25em!important;
+    padding-top: 20;
+    padding-bottom: 20;
+  }
+  /* app.css *//* app.css */
+  
+  .add-transaction-form {
+    margin-top: 20px;
+  }
+  
+  .add-transaction-form .header {
+    margin-bottom: 10px;
+  }
+
+  transactions {
+
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: center;
+  }
+  
+  .add-transaction-form .fields {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .add-transaction-form .field {
+    flex: 1;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .add-transaction-form .field label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-transaction-form button {
+    margin-top: 10px;
+  }
+  
+  
+  .add-transaction-form {
+    margin-top: 20px;
+  }
+  
+  .add-transaction-form .header {
+    margin-bottom: 10px;
+  }
+  
+  .add-transaction-form .fields {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .add-transaction-form .field {
+    flex: 1;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .add-transaction-form .field label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-transaction-form button {
+    margin-top: 10px;
+  }
+  
+  ui segment {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  
+  .App-header {
+    background-color: #3634cc;
+    padding: 20px;
+    color: white;
+    padding-bottom: 20;
+  }
+  
+  /* app.css */
+  
+  .add-transaction-form {
+    margin-top: 20px;
+  }
+  
+  .add-transaction-form .header {
+    margin-bottom: 10px;
+  }
+  
+  .add-transaction-form .fields {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .add-transaction-form .field {
+    flex: 1;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .add-transaction-form .field label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-transaction-form button {
+    margin-top: 10px;
+  }
+  
+
+  /* styles.css */
+
+/* Define a class for the table row */
+.transaction-row {
+    /* Add padding to the rows */
+    padding: 10px;
+  }
+  
+  /* Define a class for the greyed rows */
+  .greyed-row {
+    background-color: #f2f2f2; /* Adjust the color as needed */
+  }
+  
+  /* Center the content in table cells */
+  td {
+    text-align: center;
+  }
+  
